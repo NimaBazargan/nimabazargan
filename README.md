@@ -17,3 +17,7 @@ I am Nima Bazargan, a Master’s student in Algorithms and Computation Theory at
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimabazargan&show_icons=true&theme=radical)
+
