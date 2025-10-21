@@ -1,10 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=165AF7&width=435&lines=I'm+Nima+Bazargan%2CA+Django+Developer" alt="Typing SVG" style="justify-content: center;" /></a>
 
 <div align="center" dir="auto">
- <a href="https://linkedin.com/in/hosein-rezaei-developer" rel="nofollow">
+ <a href="https://www.linkedin.com/in/nima-b-2264b0115" rel="nofollow">
     <img src="https://camo.githubusercontent.com/7c2145551dc29c09205720b1acea43652035cc0f1eb46278acc400f1c1fc59a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" width="130" height="40" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%; height: auto; max-height: 40px;">
  </a>
-  <a href="http://rezaeen77@gmail.com" rel="nofollow"><img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" width="130" height="40" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+  <a href="http://nima.kazemzadeh.bazargan@gmail.com" rel="nofollow"><img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" width="130" height="40" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%; height: auto; max-height: 40px;"></a>
  </div>
 
 <p align="center" dir="auto">
