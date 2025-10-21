@@ -3,7 +3,8 @@
 <!--
 **NimaBazargan/nimabazargan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello,
+I am Nima Bazargan, a Master’s student in Algorithms and Computation Theory at Tarbiat Modares University. I am a developer specializing in Django and Django Rest Framework. I am proficient in web development using Django, with a deep understanding of Python, HTML/CSS, JavaScript, and other related technologies. I possess advanced skills such as Django REST Framework, Docker, and django-admin-tools, demonstrating my ability to create strong and scalable web applications. I am very eager to gain knowledge and experience in my field, and as a result, I have participated in several academic courses, including Sharif School and Maktabkhoneh, and through active engagement in the Django community and continuous education, I stay informed about the characteristics and best practices of new Django features.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
